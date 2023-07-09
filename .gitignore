@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+.idea
+.eslintcache
 
 # debug
 npm-debug.log*

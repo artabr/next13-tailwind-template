@@ -1,4 +1,18 @@
+<h1 align=center>Next.js 13 + Tailwind template</h1>
+
+<hr />
+
+## Overview
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This project takes over from where `create-next-app` left off. It adds the following features:
+
+- ✈️ airbnb eslint config
+- 🐭 editorconfig
+- 🅿️ prettier
+- 📓 commitlint with semantic versioning
+- 🐶 husky
 
 ## Getting Started
 
